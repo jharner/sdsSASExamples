@@ -7,3 +7,4 @@ RUN;
 PROC MEANS DATA=random;
     VAR Y;
 RUN;
+QUIT;

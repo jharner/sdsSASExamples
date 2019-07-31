@@ -1,6 +1,6 @@
 options linesize = 80 pagesize = 56 nodate pageno = 1;
 
-filename temp "/folders/myfolders/c12/data/oil.csv";
+filename temp "/folders/myfolders/sdsSASExamples/c12/data/oil.csv";
 
 data oil;
 infile temp dlm = "," firstobs = 2;
